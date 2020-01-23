@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:http-policy="http://www.mulesoft.org/schema/mule/http-policy"
+      xmlns="http://www.mulesoft.org/schema/mule/core"
+      xmlns:ee="http://www.mulesoft.org/schema/mule/ee/core"
+      xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+               http://www.mulesoft.org/schema/mule/http-policy http://www.mulesoft.org/schema/mule/http-policy/current/mule-http-policy.xsd
+               http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/ee/core/current/mule-ee.xsd">
+
+    <http-policy:proxy name="gatekeeper-policy">
+        <http-policy:source>
+            <ee:transform>
+                <ee:message>
+                    <ee:set-payload><![CDATA[%dw 2.0
+                        output text/plain
+                        ---
+                        ""
+                        ]]>
+                    </ee:set-payload>
+                    <ee:set-attributes>
+                        {
+                        statusCode: 503
+                        } as Object {class: "org.mule.extension.http.api.policy.HttpPolicyResponseAttributes"}
+                    </ee:set-attributes>
+                </ee:message>
+            </ee:transform>
+        </http-policy:source>
+    </http-policy:proxy>
+
+</mule>

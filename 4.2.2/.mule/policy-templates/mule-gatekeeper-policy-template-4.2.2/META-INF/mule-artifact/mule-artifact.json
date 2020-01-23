@@ -1,0 +1,24 @@
+{
+  "configs": [
+    "template.xml"
+  ],
+  "secureProperties": [],
+  "redeploymentEnabled": true,
+  "name": "com.mulesoft.anypoint:mule-gatekeeper-policy-template:4.2.2",
+  "minMuleVersion": "4.0.0",
+  "requiredProduct": "MULE_EE",
+  "classLoaderModelLoaderDescriptor": {
+    "id": "mule",
+    "attributes": {}
+  },
+  "bundleDescriptorLoader": {
+    "id": "mule",
+    "attributes": {
+      "groupId": "com.mulesoft.anypoint",
+      "classifier": "mule-policy",
+      "artifactId": "mule-gatekeeper-policy-template",
+      "type": "jar",
+      "version": "4.2.2"
+    }
+  }
+}

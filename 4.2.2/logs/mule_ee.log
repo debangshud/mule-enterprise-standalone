@@ -1,0 +1,895 @@
+--> Wrapper Started as Console
+Java Service Wrapper Standard Edition 64-bit 3.5.37
+  Copyright (C) 1999-2018 Tanuki Software, Ltd. All Rights Reserved.
+    http://wrapper.tanukisoftware.com
+  Licensed to MuleSoft Inc. for Mule Runtime Enterprise Edition
+
+Launching a JVM...
+Starting the Mule Container...
+WrapperManager: Initializing...
+WrapperManager: 
+WrapperManager: ERROR - Unable to load the Wrapper's native library because none of the
+WrapperManager:         following files:
+WrapperManager:           libwrapper-macosx-universal-64.dylib
+WrapperManager:           libwrapper.dylib
+WrapperManager:         could be located on the following java.library.path:
+WrapperManager:           /opt/mule-enterprise-standalone/4.2.2/lib/boot
+WrapperManager:         Please see the documentation for the wrapper.java.library.path
+WrapperManager:         configuration property.
+WrapperManager: 
+Writing to the backend pipe failed (35): Resource temporarily unavailable
+Pipe send failed.  Incomplete.  Sent 8133 of 11796 bytes.
+Writing to the backend pipe failed (35): Resource temporarily unavailable
+Pipe send failed.  Incomplete.  Sent 0 of 2 bytes.
+
+Valid license key --> Evaluation = true, Expiration Date = Fri Feb 21 00:00:00 EST 2020, Contact Name = MuleSoft Support, Contact Email Address = support@mulesoft.com, Contact Telephone = support@mulesoft.com, Contact Company = MuleSoft, Contact Country = US, Entitlements = 
+
+INT trapped.  Forcing immediate shutdown.
+JVM did not exit on request, termination requested.
+JVM exited after being requested to terminate.
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Java Service Wrapper Standard Edition 64-bit 3.5.37
+  Copyright (C) 1999-2018 Tanuki Software, Ltd. All Rights Reserved.
+    http://wrapper.tanukisoftware.com
+  Licensed to MuleSoft Inc. for Mule Runtime Enterprise Edition
+
+Launching a JVM...
+Starting the Mule Container...
+WrapperManager: Initializing...
+WrapperManager: 
+WrapperManager: ERROR - Unable to load the Wrapper's native library because none of the
+WrapperManager:         following files:
+WrapperManager:           libwrapper-macosx-universal-64.dylib
+WrapperManager:           libwrapper.dylib
+WrapperManager:         could be located on the following java.library.path:
+WrapperManager:           /opt/mule-enterprise-standalone/4.2.2/lib/boot
+WrapperManager:         Please see the documentation for the wrapper.java.library.path
+WrapperManager:         configuration property.
+WrapperManager: 
+Writing to the backend pipe failed (35): Resource temporarily unavailable
+Pipe send failed.  Incomplete.  Sent 8133 of 11796 bytes.
+Writing to the backend pipe failed (35): Resource temporarily unavailable
+Pipe send failed.  Incomplete.  Sent 0 of 2 bytes.
+
+Valid license key --> Evaluation = true, Expiration Date = Fri Feb 21 00:00:00 EST 2020, Contact Name = MuleSoft Support, Contact Email Address = support@mulesoft.com, Contact Telephone = support@mulesoft.com, Contact Company = MuleSoft, Contact Country = US, Entitlements = 
+
+Shutdown failed: Timed out waiting for the JVM to terminate.
+JVM did not exit on request, termination requested.
+JVM received a signal SIGKILL (9).
+JVM process is gone.
+JVM exited after being requested to terminate.
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Java Service Wrapper Standard Edition 64-bit 3.5.37
+  Copyright (C) 1999-2018 Tanuki Software, Ltd. All Rights Reserved.
+    http://wrapper.tanukisoftware.com
+  Licensed to MuleSoft Inc. for Mule Runtime Enterprise Edition
+
+Launching a JVM...
+Starting the Mule Container...
+WrapperManager: Initializing...
+
+Valid license key --> Evaluation = true, Expiration Date = Fri Feb 21 00:00:00 EST 2020, Contact Name = MuleSoft Support, Contact Email Address = support@mulesoft.com, Contact Telephone = support@mulesoft.com, Contact Company = MuleSoft, Contact Country = US, Entitlements = 
+
+
+**********************************************************************
+*                                                                    *
+*                         (((((((((((((((((((                        *
+*                     (((((                 ((((#                    *
+*                  &(((                        *(((                  *
+*                &(((                             (((                *
+*               (((     (((%               (((#     (((              *
+*              ((     (((((((             (((((((    (((             *
+*             ((     (((((((((           (((((((((     ((            *
+*            ((    #(((((((((((        #(((((((((((    (((           *
+*           #((    ((((((((((((((     ((((((((((((((    ((           *
+*           ((    ((((((  /(((((((   (((((((  /((((((    ((          *
+*           ((    ((((((    (((((((&(((((((    ((((((    ((          *
+*           ((    (((((      ((((((((((((*     ((((((    ((          *
+*           ((    ((((((      *(((((((((       ((((((    ((          *
+*           ((    ((((((        (((((((        ((((((   (((          *
+*            ((    ((((((                     ((((((    ((           *
+*            ((#    ((((((#                 (((((((    ((            *
+*             ((#    ((((((((             ((((((((    (((            *
+*              (((    (((((((              (((((     ((.             *
+*                ((      (((               (((     #((               *
+*                 /((                            (((                 *
+*                    (((                      &(((                   *
+*                      *((((&             &((((                      *
+*                           ((((((((((((((/                          *
+*                                                                    *
+*    ___  ___      _        ______            _   _                  *
+*    |  \/  |     | |       | ___ \          | | (_)                 *
+*    | .  . |_   _| | ___   | |_/ /   _ _ __ | |_ _ _ __ ___   ___   *
+*    | |\/| | | | | |/ _ \  |    / | | | '_ \| __| | '_ ` _ \ / _ \  *
+*    | |  | | |_| | |  __/  | |\ \ |_| | | | | |_| | | | | | |  __/  *
+*    \_|  |_/\__,_|_|\___|  \_| \_\__,_|_| |_|\__|_|_| |_| |_|\___|  *
+*                                                                    *
+*                                                                    *
+* Mule Runtime and Integration Platform                              *
+* Version: 4.2.2 Build: e790fb3a                                     *
+* MuleSoft, Inc.                                                     *
+* For more information go to                                         *
+* https://www.mulesoft.com/platform/soa/mule-esb-enterprise          *
+*                                                                    *
+* Server started: 1/22/20 7:33 PM                                    *
+* JDK: 1.8.0_161 (mixed mode)                                        *
+* JDK properties:                                                    *
+*  - java.vendor = Oracle Corporation                                *
+*  - java.vm.name = Java HotSpot(TM) 64-Bit Server VM                *
+* - java.home =                                                      *
+* /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/j *
+* re                                                                 *
+* OS: Mac OS X (10.15.2, x86_64)                                     *
+* Host: Debangshus-MacBook-Pro.local (192.168.86.23)                 *
+* Mule services:                                                     *
+*  - api-gateway-events-collector-service-1.1.0                      *
+*  - mule-service-oauth-1.3.2                                        *
+*  - api-gateway-contract-service-1.1.0                              *
+*  - mule-service-weave-ee-2.2.2                                     *
+*  - mule-service-scheduler-1.2.4                                    *
+*  - mule-service-soap-1.2.1                                         *
+*  - mule-service-http-ee-1.5.0                                      *
+* Applied artifact patches:                                          *
+*  - SE-12551-1.0.0-1.0.1-1.0.jar                                    *
+*  - SE-12551-1.1.0-1.1.15-2.0.jar                                   *
+*  - SE-12551-1.2.0-1.3.0-1.0.jar                                    *
+*  - SE-12551-1.3.1-1.3.4-1.0.jar                                    *
+*  - SE-12562-1.0.0-1.5.5-1.0.jar                                    *
+* Mule system properties:                                            *
+*  - mule.metadata.cache.expirationInterval.millis = 5000            *
+*  - mule.base = /opt/mule-enterprise-standalone/4.2.2               *
+*  - mule.home = /opt/mule-enterprise-standalone/4.2.2               *
+*  - mule.metadata.cache.entryTtl.minutes = 10                       *
+**********************************************************************
+
+**********************************************************************
+* Cluster configuration                                              *
+*                                                                    *
+* Cluster mode disabled                                              *
+**********************************************************************
+
+**********************************************************************
+* Started domain 'default'                                           *
+**********************************************************************
+WARN  2020-01-22 19:33:54,314 [WrapperListener_start_runner] [event: ] org.mule.runtime.module.deployment.impl.internal.plugin.PluginMavenClassLoaderModelLoader: Internal plugin library 'org.mule.runtime:mule-metadata-model-api' is a Mule Runtime dependency. It will not be used by 'mule-apikit-module-1.3.5-mule-plugin.jar' in order to avoid classloading issues. Please consider removing it, or at least not putting it with 'compile' scope.
+WARN  2020-01-22 19:33:54,314 [WrapperListener_start_runner] [event: ] org.mule.runtime.module.deployment.impl.internal.plugin.PluginMavenClassLoaderModelLoader: Internal plugin library 'org.mule.runtime:api-annotations' is a Mule Runtime dependency. It will not be used by 'mule-apikit-module-1.3.5-mule-plugin.jar' in order to avoid classloading issues. Please consider removing it, or at least not putting it with 'compile' scope.
+WARN  2020-01-22 19:33:54,434 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'HTTP' contains a local package 'com.sun.activation.viewers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,434 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'HTTP' contains a local package 'com.sun.activation.registries', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,434 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'HTTP' contains a local package 'javax.activation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,434 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'HTTP' contains a local package 'javax.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,437 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'proxy' contains a local package 'javax.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.validation.validators', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.txw2', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.istack.logging', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.reactivestreams', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.html', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.selector', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.builder.impl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.validation.constraints', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.marshaller', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.annotation.adapters', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.xml.sax.helpers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.status', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.istack', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.stylesheets', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.xml.sax', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,440 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.property', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.api', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.txw2.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.ranges', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.stream', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.views', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.slf4j.spi', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.message', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform.stax', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.status', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.schemagen.xmlschema', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.visitors', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,441 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.nav', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.txw2.output', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.reflect', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.jmx', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.unmarshaller', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.impl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.validation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform.sax', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.spi', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.schemagen', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.xml.sax.ext', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.builder.api', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.pattern', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform.dom', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.bootstrap', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.layout', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.attachment', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.helpers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.appender.rolling.action', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.schemagen.episode', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.appender.rewrite', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.api.impl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,442 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.traversal', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.slf4j', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.istack.localization', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.appender.rolling', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.ls', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.xpath', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.xpath', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.stream.events', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.appender', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.activation.viewers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.net', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.activation.registries', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.script', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.namespace', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.async', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.unmarshaller', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.xml', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,443 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.bytecode', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,444 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.output', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,444 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.core', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,444 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.stream.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,444 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.validation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,444 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.filter', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,444 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.events', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,444 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,444 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.commons.logging', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,444 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,444 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform.stream', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,444 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.datatype', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,444 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,444 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,445 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.lookup', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,445 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.parsers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,445 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.runtime', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,445 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.activation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,445 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.net.ssl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,445 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.impl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,445 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.reflect.opt', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,445 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,445 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.css', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,445 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.time', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,445 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.processor', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:33:54,449 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'rest-validator' contains a local package 'javax.annotation', but it will be ignored since it is already available from the container.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ New app 'customer-v1-v1_15970147'                                            +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Initializing app 'customer-v1-v1_15970147'                                   +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+**********************************************************************
+* Started DefaultSchedulerService                                    *
+*                                                                    *
+* Resolved configuration values:                                     *
+*                                                                    *
+* gracefulShutdownTimeout:       15000 ms                            *
+* cpuLight.threadPool.size:      16                                  *
+* cpuLight.workQueue.size:       0                                   *
+* io.threadPool.maxSize:         152                                 *
+* io.threadPool.threadKeepAlive: 30000 ms                            *
+* cpuIntensive.threadPool.size:  16                                  *
+* cpuIntensive.workQueue.size:   16                                  *
+*                                                                    *
+* These can be modified by editing 'conf/scheduler-pools.conf'       *
+**********************************************************************
+INFO  2020-01-22 19:34:09,716 [WrapperListener_start_runner] [event: ] com.mulesoft.mule.runtime.gw.deployment.ApiDeploymentCoreExtension: Starting API Gateway Extension in STANDALONE mode
+INFO  2020-01-22 19:34:09,770 [WrapperListener_start_runner] [event: ] com.mulesoft.mule.runtime.gw.policies.lifecyle.GateKeeper: GateKeeper started in FLEXIBLE mode
+WARN  2020-01-22 19:34:09,773 [WrapperListener_start_runner] [event: ] com.mulesoft.mule.runtime.gw.deployment.ApiDeploymentCoreExtension: Client ID or Client Secret were not provided. API Platform client is DISABLED.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Starting app 'customer-v1-v1_15970147'                                       +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+INFO  2020-01-22 19:34:14,349 [WrapperListener_start_runner] [event: ] com.mulesoft.mule.runtime.gw.policies.lifecyle.GateKeeper: API ApiKey{id='15970147'} is blocked (unavailable).
+
+**********************************************************************
+* Started app 'customer-v1-v1_15970147'                              *
+* Application plugins:                                               *
+*  - Sockets : 1.1.5                                                 *
+*  - HTTP : 1.5.7                                                    *
+*  - proxy : 1.1.2                                                   *
+*  - APIKit : 1.3.5                                                  *
+*  - rest-validator : 2.1.0                                          *
+**********************************************************************
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Mule is up and kicking (every 5000ms)                                        +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+**********************************************************************
+*              - - + DOMAIN + - -               * - - + STATUS + - - *
+**********************************************************************
+* default                                       * DEPLOYED           *
+**********************************************************************
+
+*******************************************************************************************************
+*            - - + APPLICATION + - -            *       - - + DOMAIN + - -       * - - + STATUS + - - *
+*******************************************************************************************************
+* customer-v1-v1_15970147                       * default                        * DEPLOYED           *
+*******************************************************************************************************
+
+INT trapped.  Shutting down.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Disposing application 'customer-v1-v1_15970147'                              +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Disposing domain 'default'                                                   +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Java Service Wrapper Standard Edition 64-bit 3.5.37
+  Copyright (C) 1999-2018 Tanuki Software, Ltd. All Rights Reserved.
+    http://wrapper.tanukisoftware.com
+  Licensed to MuleSoft Inc. for Mule Runtime Enterprise Edition
+
+Launching a JVM...
+Starting the Mule Container...
+WrapperManager: Initializing...
+
+Valid license key --> Evaluation = true, Expiration Date = Fri Feb 21 00:00:00 EST 2020, Contact Name = MuleSoft Support, Contact Email Address = support@mulesoft.com, Contact Telephone = support@mulesoft.com, Contact Company = MuleSoft, Contact Country = US, Entitlements = 
+
+
+**********************************************************************
+*                                                                    *
+*                         (((((((((((((((((((                        *
+*                     (((((                 ((((#                    *
+*                  &(((                        *(((                  *
+*                &(((                             (((                *
+*               (((     (((%               (((#     (((              *
+*              ((     (((((((             (((((((    (((             *
+*             ((     (((((((((           (((((((((     ((            *
+*            ((    #(((((((((((        #(((((((((((    (((           *
+*           #((    ((((((((((((((     ((((((((((((((    ((           *
+*           ((    ((((((  /(((((((   (((((((  /((((((    ((          *
+*           ((    ((((((    (((((((&(((((((    ((((((    ((          *
+*           ((    (((((      ((((((((((((*     ((((((    ((          *
+*           ((    ((((((      *(((((((((       ((((((    ((          *
+*           ((    ((((((        (((((((        ((((((   (((          *
+*            ((    ((((((                     ((((((    ((           *
+*            ((#    ((((((#                 (((((((    ((            *
+*             ((#    ((((((((             ((((((((    (((            *
+*              (((    (((((((              (((((     ((.             *
+*                ((      (((               (((     #((               *
+*                 /((                            (((                 *
+*                    (((                      &(((                   *
+*                      *((((&             &((((                      *
+*                           ((((((((((((((/                          *
+*                                                                    *
+*    ___  ___      _        ______            _   _                  *
+*    |  \/  |     | |       | ___ \          | | (_)                 *
+*    | .  . |_   _| | ___   | |_/ /   _ _ __ | |_ _ _ __ ___   ___   *
+*    | |\/| | | | | |/ _ \  |    / | | | '_ \| __| | '_ ` _ \ / _ \  *
+*    | |  | | |_| | |  __/  | |\ \ |_| | | | | |_| | | | | | |  __/  *
+*    \_|  |_/\__,_|_|\___|  \_| \_\__,_|_| |_|\__|_|_| |_| |_|\___|  *
+*                                                                    *
+*                                                                    *
+* Mule Runtime and Integration Platform                              *
+* Version: 4.2.2 Build: e790fb3a                                     *
+* MuleSoft, Inc.                                                     *
+* For more information go to                                         *
+* https://www.mulesoft.com/platform/soa/mule-esb-enterprise          *
+*                                                                    *
+* Server started: 1/22/20 7:35 PM                                    *
+* JDK: 1.8.0_161 (mixed mode)                                        *
+* JDK properties:                                                    *
+*  - java.vendor = Oracle Corporation                                *
+*  - java.vm.name = Java HotSpot(TM) 64-Bit Server VM                *
+* - java.home =                                                      *
+* /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/j *
+* re                                                                 *
+* OS: Mac OS X (10.15.2, x86_64)                                     *
+* Host: Debangshus-MacBook-Pro.local (192.168.86.23)                 *
+* Mule services:                                                     *
+*  - api-gateway-events-collector-service-1.1.0                      *
+*  - mule-service-oauth-1.3.2                                        *
+*  - api-gateway-contract-service-1.1.0                              *
+*  - mule-service-weave-ee-2.2.2                                     *
+*  - mule-service-scheduler-1.2.4                                    *
+*  - mule-service-soap-1.2.1                                         *
+*  - mule-service-http-ee-1.5.0                                      *
+* Applied artifact patches:                                          *
+*  - SE-12551-1.0.0-1.0.1-1.0.jar                                    *
+*  - SE-12551-1.1.0-1.1.15-2.0.jar                                   *
+*  - SE-12551-1.2.0-1.3.0-1.0.jar                                    *
+*  - SE-12551-1.3.1-1.3.4-1.0.jar                                    *
+*  - SE-12562-1.0.0-1.5.5-1.0.jar                                    *
+* Mule system properties:                                            *
+*  - mule.metadata.cache.expirationInterval.millis = 5000            *
+*  - mule.base = /opt/mule-enterprise-standalone/4.2.2               *
+*  - mule.home = /opt/mule-enterprise-standalone/4.2.2               *
+*  - mule.metadata.cache.entryTtl.minutes = 10                       *
+**********************************************************************
+
+**********************************************************************
+* Cluster configuration                                              *
+*                                                                    *
+* Cluster mode disabled                                              *
+**********************************************************************
+
+**********************************************************************
+* Started domain 'default'                                           *
+**********************************************************************
+WARN  2020-01-22 19:36:15,597 [WrapperListener_start_runner] [event: ] org.mule.runtime.module.deployment.impl.internal.plugin.PluginMavenClassLoaderModelLoader: Internal plugin library 'org.mule.runtime:mule-metadata-model-api' is a Mule Runtime dependency. It will not be used by 'mule-apikit-module-1.3.5-mule-plugin.jar' in order to avoid classloading issues. Please consider removing it, or at least not putting it with 'compile' scope.
+WARN  2020-01-22 19:36:15,598 [WrapperListener_start_runner] [event: ] org.mule.runtime.module.deployment.impl.internal.plugin.PluginMavenClassLoaderModelLoader: Internal plugin library 'org.mule.runtime:api-annotations' is a Mule Runtime dependency. It will not be used by 'mule-apikit-module-1.3.5-mule-plugin.jar' in order to avoid classloading issues. Please consider removing it, or at least not putting it with 'compile' scope.
+WARN  2020-01-22 19:36:15,709 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'HTTP' contains a local package 'com.sun.activation.viewers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,709 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'HTTP' contains a local package 'com.sun.activation.registries', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,709 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'HTTP' contains a local package 'javax.activation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,709 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'HTTP' contains a local package 'javax.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,712 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'proxy' contains a local package 'javax.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,715 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.validation.validators', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,715 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.txw2', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,715 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,715 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.istack.logging', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,715 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.reactivestreams', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,715 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,715 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.html', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,715 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.selector', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,715 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.builder.impl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,715 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.validation.constraints', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.marshaller', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.annotation.adapters', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.xml.sax.helpers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.status', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.istack', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.stylesheets', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.xml.sax', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.property', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.api', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.txw2.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.ranges', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.stream', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.views', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.slf4j.spi', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.message', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,716 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform.stax', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.status', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.schemagen.xmlschema', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.visitors', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.nav', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.txw2.output', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.reflect', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.jmx', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.unmarshaller', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.impl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.validation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform.sax', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.spi', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,717 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.schemagen', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,718 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.xml.sax.ext', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,718 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.builder.api', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,718 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.pattern', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,718 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform.dom', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,718 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.bootstrap', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,718 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.layout', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,718 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.attachment', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,718 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.helpers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,718 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.appender.rolling.action', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,718 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.schemagen.episode', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,718 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.appender.rewrite', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,718 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.api.impl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,718 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.traversal', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.slf4j', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.istack.localization', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.appender.rolling', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.ls', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.xpath', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.xpath', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.stream.events', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.appender', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.net', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.activation.viewers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.activation.registries', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.script', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.namespace', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.async', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.unmarshaller', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.xml', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.bytecode', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.output', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.core', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.stream.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,719 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.validation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.filter', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.events', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.commons.logging', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform.stream', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.datatype', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.lookup', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.parsers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.runtime', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.activation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.net.ssl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.impl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.reflect.opt', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.css', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.time', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,720 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.processor', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:36:15,726 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'rest-validator' contains a local package 'javax.annotation', but it will be ignored since it is already available from the container.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ New app 'customer-v1-v1_15970147'                                            +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Initializing app 'customer-v1-v1_15970147'                                   +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+**********************************************************************
+* Started DefaultSchedulerService                                    *
+*                                                                    *
+* Resolved configuration values:                                     *
+*                                                                    *
+* gracefulShutdownTimeout:       15000 ms                            *
+* cpuLight.threadPool.size:      16                                  *
+* cpuLight.workQueue.size:       0                                   *
+* io.threadPool.maxSize:         152                                 *
+* io.threadPool.threadKeepAlive: 30000 ms                            *
+* cpuIntensive.threadPool.size:  16                                  *
+* cpuIntensive.workQueue.size:   16                                  *
+*                                                                    *
+* These can be modified by editing 'conf/scheduler-pools.conf'       *
+**********************************************************************
+INFO  2020-01-22 19:36:30,645 [WrapperListener_start_runner] [event: ] com.mulesoft.mule.runtime.gw.deployment.ApiDeploymentCoreExtension: Starting API Gateway Extension in STANDALONE mode
+INFO  2020-01-22 19:36:30,701 [WrapperListener_start_runner] [event: ] com.mulesoft.mule.runtime.gw.policies.lifecyle.GateKeeper: GateKeeper started in FLEXIBLE mode
+WARN  2020-01-22 19:36:30,703 [WrapperListener_start_runner] [event: ] com.mulesoft.mule.runtime.gw.deployment.ApiDeploymentCoreExtension: Client ID or Client Secret were not provided. API Platform client is DISABLED.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Starting app 'customer-v1-v1_15970147'                                       +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+INFO  2020-01-22 19:36:35,371 [WrapperListener_start_runner] [event: ] com.mulesoft.mule.runtime.gw.policies.lifecyle.GateKeeper: API ApiKey{id='15970147'} is blocked (unavailable).
+
+**********************************************************************
+* Started app 'customer-v1-v1_15970147'                              *
+* Application plugins:                                               *
+*  - Sockets : 1.1.5                                                 *
+*  - HTTP : 1.5.7                                                    *
+*  - proxy : 1.1.2                                                   *
+*  - APIKit : 1.3.5                                                  *
+*  - rest-validator : 2.1.0                                          *
+**********************************************************************
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Mule is up and kicking (every 5000ms)                                        +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+**********************************************************************
+*              - - + DOMAIN + - -               * - - + STATUS + - - *
+**********************************************************************
+* default                                       * DEPLOYED           *
+**********************************************************************
+
+*******************************************************************************************************
+*            - - + APPLICATION + - -            *       - - + DOMAIN + - -       * - - + STATUS + - - *
+*******************************************************************************************************
+* customer-v1-v1_15970147                       * default                        * DEPLOYED           *
+*******************************************************************************************************
+
+INT trapped.  Shutting down.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Disposing application 'customer-v1-v1_15970147'                              +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Disposing domain 'default'                                                   +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+<-- Wrapper Stopped
+--> Wrapper Started as Console
+Java Service Wrapper Standard Edition 64-bit 3.5.37
+  Copyright (C) 1999-2018 Tanuki Software, Ltd. All Rights Reserved.
+    http://wrapper.tanukisoftware.com
+  Licensed to MuleSoft Inc. for Mule Runtime Enterprise Edition
+
+Launching a JVM...
+Starting the Mule Container...
+WrapperManager: Initializing...
+
+Valid license key --> Evaluation = true, Expiration Date = Fri Feb 21 00:00:00 EST 2020, Contact Name = MuleSoft Support, Contact Email Address = support@mulesoft.com, Contact Telephone = support@mulesoft.com, Contact Company = MuleSoft, Contact Country = US, Entitlements = 
+
+
+**********************************************************************
+*                                                                    *
+*                         (((((((((((((((((((                        *
+*                     (((((                 ((((#                    *
+*                  &(((                        *(((                  *
+*                &(((                             (((                *
+*               (((     (((%               (((#     (((              *
+*              ((     (((((((             (((((((    (((             *
+*             ((     (((((((((           (((((((((     ((            *
+*            ((    #(((((((((((        #(((((((((((    (((           *
+*           #((    ((((((((((((((     ((((((((((((((    ((           *
+*           ((    ((((((  /(((((((   (((((((  /((((((    ((          *
+*           ((    ((((((    (((((((&(((((((    ((((((    ((          *
+*           ((    (((((      ((((((((((((*     ((((((    ((          *
+*           ((    ((((((      *(((((((((       ((((((    ((          *
+*           ((    ((((((        (((((((        ((((((   (((          *
+*            ((    ((((((                     ((((((    ((           *
+*            ((#    ((((((#                 (((((((    ((            *
+*             ((#    ((((((((             ((((((((    (((            *
+*              (((    (((((((              (((((     ((.             *
+*                ((      (((               (((     #((               *
+*                 /((                            (((                 *
+*                    (((                      &(((                   *
+*                      *((((&             &((((                      *
+*                           ((((((((((((((/                          *
+*                                                                    *
+*    ___  ___      _        ______            _   _                  *
+*    |  \/  |     | |       | ___ \          | | (_)                 *
+*    | .  . |_   _| | ___   | |_/ /   _ _ __ | |_ _ _ __ ___   ___   *
+*    | |\/| | | | | |/ _ \  |    / | | | '_ \| __| | '_ ` _ \ / _ \  *
+*    | |  | | |_| | |  __/  | |\ \ |_| | | | | |_| | | | | | |  __/  *
+*    \_|  |_/\__,_|_|\___|  \_| \_\__,_|_| |_|\__|_|_| |_| |_|\___|  *
+*                                                                    *
+*                                                                    *
+* Mule Runtime and Integration Platform                              *
+* Version: 4.2.2 Build: e790fb3a                                     *
+* MuleSoft, Inc.                                                     *
+* For more information go to                                         *
+* https://www.mulesoft.com/platform/soa/mule-esb-enterprise          *
+*                                                                    *
+* Server started: 1/22/20 7:40 PM                                    *
+* JDK: 1.8.0_161 (mixed mode)                                        *
+* JDK properties:                                                    *
+*  - java.vendor = Oracle Corporation                                *
+*  - java.vm.name = Java HotSpot(TM) 64-Bit Server VM                *
+* - java.home =                                                      *
+* /Library/Java/JavaVirtualMachines/jdk1.8.0_161.jdk/Contents/Home/j *
+* re                                                                 *
+* OS: Mac OS X (10.15.2, x86_64)                                     *
+* Host: Debangshus-MacBook-Pro.local (192.168.86.23)                 *
+* Mule services:                                                     *
+*  - api-gateway-events-collector-service-1.1.0                      *
+*  - mule-service-oauth-1.3.2                                        *
+*  - api-gateway-contract-service-1.1.0                              *
+*  - mule-service-weave-ee-2.2.2                                     *
+*  - mule-service-scheduler-1.2.4                                    *
+*  - mule-service-soap-1.2.1                                         *
+*  - mule-service-http-ee-1.5.0                                      *
+* Applied artifact patches:                                          *
+*  - SE-12551-1.0.0-1.0.1-1.0.jar                                    *
+*  - SE-12551-1.1.0-1.1.15-2.0.jar                                   *
+*  - SE-12551-1.2.0-1.3.0-1.0.jar                                    *
+*  - SE-12551-1.3.1-1.3.4-1.0.jar                                    *
+*  - SE-12562-1.0.0-1.5.5-1.0.jar                                    *
+* Mule system properties:                                            *
+*  - mule.metadata.cache.expirationInterval.millis = 5000            *
+*  - mule.base = /opt/mule-enterprise-standalone/4.2.2               *
+*  - mule.home = /opt/mule-enterprise-standalone/4.2.2               *
+*  - mule.metadata.cache.entryTtl.minutes = 10                       *
+**********************************************************************
+
+**********************************************************************
+* Cluster configuration                                              *
+*                                                                    *
+* Cluster mode disabled                                              *
+**********************************************************************
+
+**********************************************************************
+* Started domain 'default'                                           *
+**********************************************************************
+WARN  2020-01-22 19:40:29,789 [WrapperListener_start_runner] [event: ] org.mule.runtime.module.deployment.impl.internal.plugin.PluginMavenClassLoaderModelLoader: Internal plugin library 'org.mule.runtime:mule-metadata-model-api' is a Mule Runtime dependency. It will not be used by 'mule-apikit-module-1.3.5-mule-plugin.jar' in order to avoid classloading issues. Please consider removing it, or at least not putting it with 'compile' scope.
+WARN  2020-01-22 19:40:29,789 [WrapperListener_start_runner] [event: ] org.mule.runtime.module.deployment.impl.internal.plugin.PluginMavenClassLoaderModelLoader: Internal plugin library 'org.mule.runtime:api-annotations' is a Mule Runtime dependency. It will not be used by 'mule-apikit-module-1.3.5-mule-plugin.jar' in order to avoid classloading issues. Please consider removing it, or at least not putting it with 'compile' scope.
+WARN  2020-01-22 19:40:29,914 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'HTTP' contains a local package 'com.sun.activation.viewers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,914 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'HTTP' contains a local package 'com.sun.activation.registries', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,914 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'HTTP' contains a local package 'javax.activation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,915 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'HTTP' contains a local package 'javax.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,917 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'proxy' contains a local package 'javax.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,919 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.validation.validators', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,919 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.txw2', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,919 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,919 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.istack.logging', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,919 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.reactivestreams', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.html', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.selector', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.builder.impl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.validation.constraints', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.marshaller', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.annotation.adapters', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.xml.sax.helpers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.status', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.istack', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.stylesheets', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.xml.sax', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.property', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.api', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.txw2.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.ranges', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.stream', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.views', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.slf4j.spi', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.message', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,920 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform.stax', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.status', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.schemagen.xmlschema', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.visitors', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.nav', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.txw2.output', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.reflect', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.jmx', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.unmarshaller', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.impl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.validation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform.sax', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.schemagen', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.spi', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.xml.sax.ext', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.builder.api', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.pattern', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform.dom', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,921 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.bootstrap', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.layout', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.attachment', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.helpers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.appender.rolling.action', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.schemagen.episode', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.appender.rewrite', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.api.impl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.traversal', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.slf4j', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.istack.localization', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.appender.rolling', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.ls', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.xpath', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.xpath', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.stream.events', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.appender', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.activation.viewers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.net', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.activation.registries', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.script', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.namespace', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.async', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.unmarshaller', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.xml', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.bytecode', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.output', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.core', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.stream.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.validation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.filter', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.events', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.commons.logging', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.transform.stream', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,922 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.datatype', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,923 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.bind.annotation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,923 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,923 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.lookup', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,923 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.xml.parsers', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,923 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.model.runtime', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,923 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'javax.activation', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,923 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.net.ssl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,923 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.impl', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,923 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.runtime.reflect.opt', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,923 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'com.sun.xml.bind.v2.util', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,923 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.w3c.dom.css', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,923 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.time', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,923 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'APIKit' contains a local package 'org.apache.logging.log4j.core.config.plugins.processor', but it will be ignored since it is already available from the container.
+WARN  2020-01-22 19:40:29,927 [WrapperListener_start_runner] [event: ] org.mule.runtime.deployment.model.internal.DefaultRegionPluginClassLoadersFactory: Plugin 'rest-validator' contains a local package 'javax.annotation', but it will be ignored since it is already available from the container.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ New app 'customer-v1-v1_15970147'                                            +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Initializing app 'customer-v1-v1_15970147'                                   +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+**********************************************************************
+* Started DefaultSchedulerService                                    *
+*                                                                    *
+* Resolved configuration values:                                     *
+*                                                                    *
+* gracefulShutdownTimeout:       15000 ms                            *
+* cpuLight.threadPool.size:      16                                  *
+* cpuLight.workQueue.size:       0                                   *
+* io.threadPool.maxSize:         152                                 *
+* io.threadPool.threadKeepAlive: 30000 ms                            *
+* cpuIntensive.threadPool.size:  16                                  *
+* cpuIntensive.workQueue.size:   16                                  *
+*                                                                    *
+* These can be modified by editing 'conf/scheduler-pools.conf'       *
+**********************************************************************
+INFO  2020-01-22 19:40:44,689 [WrapperListener_start_runner] [event: ] com.mulesoft.mule.runtime.gw.deployment.ApiDeploymentCoreExtension: Starting API Gateway Extension in STANDALONE mode
+INFO  2020-01-22 19:40:44,734 [WrapperListener_start_runner] [event: ] com.mulesoft.mule.runtime.gw.policies.lifecyle.GateKeeper: GateKeeper is disabled.
+WARN  2020-01-22 19:40:44,734 [WrapperListener_start_runner] [event: ] com.mulesoft.mule.runtime.gw.deployment.ApiDeploymentCoreExtension: Client ID or Client Secret were not provided. API Platform client is DISABLED.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Starting app 'customer-v1-v1_15970147'                                       +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+**********************************************************************
+* Started app 'customer-v1-v1_15970147'                              *
+* Application plugins:                                               *
+*  - Sockets : 1.1.5                                                 *
+*  - HTTP : 1.5.7                                                    *
+*  - proxy : 1.1.2                                                   *
+*  - APIKit : 1.3.5                                                  *
+*  - rest-validator : 2.1.0                                          *
+**********************************************************************
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Mule is up and kicking (every 5000ms)                                        +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+**********************************************************************
+*              - - + DOMAIN + - -               * - - + STATUS + - - *
+**********************************************************************
+* default                                       * DEPLOYED           *
+**********************************************************************
+
+*******************************************************************************************************
+*            - - + APPLICATION + - -            *       - - + DOMAIN + - -       * - - + STATUS + - - *
+*******************************************************************************************************
+* customer-v1-v1_15970147                       * default                        * DEPLOYED           *
+*******************************************************************************************************
+
+INT trapped.  Shutting down.
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Disposing application 'customer-v1-v1_15970147'                              +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ Disposing domain 'default'                                                   +
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+<-- Wrapper Stopped

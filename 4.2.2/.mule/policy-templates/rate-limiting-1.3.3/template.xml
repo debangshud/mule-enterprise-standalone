@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mule xmlns="http://www.mulesoft.org/schema/mule/core"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:throttling="http://www.mulesoft.org/schema/mule/throttling"
+      xmlns:http-policy="http://www.mulesoft.org/schema/mule/http-policy"
+      xmlns:http-transform="http://www.mulesoft.org/schema/mule/http-policy-transform"
+      xsi:schemaLocation="http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd
+               http://www.mulesoft.org/schema/mule/http-policy http://www.mulesoft.org/schema/mule/http-policy/current/mule-http-policy.xsd
+               http://www.mulesoft.org/schema/mule/throttling http://www.mulesoft.org/schema/mule/throttling/current/mule-throttling.xsd
+               http://www.mulesoft.org/schema/mule/http-policy-transform http://www.mulesoft.org/schema/mule/http-policy-transform/current/mule-http-policy-transform.xsd">
+
+    <http-policy:proxy name="{{{policyId}}}-rate-limit">
+        <http-policy:source>
+            <try>
+                <throttling:rate-limit id="{{{policyId}}}-rate-limit" config-ref="rateLimitConfig" target="throttlingResponse">
+                    {{#if keySelector}}
+                    <throttling:tier-selector>
+                        <throttling:selector key="{{{keySelector}}}"/>
+                    </throttling:tier-selector>
+                    {{/if}}
+                </throttling:rate-limit>
+
+                <http-policy:execute-next/>
+
+                {{#if exposeHeaders}}
+                <http-transform:add-response-headers>
+                    <http-transform:headers>#[
+                        {
+                            'x-ratelimit-remaining': vars.throttlingResponse.availableQuota as String,
+                            'x-ratelimit-limit': vars.throttlingResponse.maximumAllowedRequests as String,
+                            'x-ratelimit-reset': vars.throttlingResponse.remainingFrame as String
+                        }
+                    ]</http-transform:headers>
+                </http-transform:add-response-headers>
+                {{/if}}
+
+                <error-handler>
+                    <on-error-continue type="THROTTLING:QUOTA_EXCEEDED" logException="false">
+                        {{#if isWsdlEndpoint}}
+                        <try>
+                            <http-transform:set-response statusCode="500">
+                                <http-transform:body>#[
+                                    output application/xml
+                                    ---
+                                    Soap::clientErrorMessage(payload, 'Too many requests', '$(error.description)')
+                                    ]</http-transform:body>
+                                <http-transform:headers>#[
+                                    {
+                                        {{#if exposeHeaders}}
+                                        'x-ratelimit-remaining': error.exception.availableQuota as String,
+                                        'x-ratelimit-limit': error.exception.maximumAllowedRequests as String,
+                                        'x-ratelimit-reset': error.exception.remainingFrame as String
+                                        {{/if}}
+                                    }
+                                    ]</http-transform:headers>
+                            </http-transform:set-response>
+                            <error-handler>
+                                <on-error-continue logException="true" >
+                                    <http-transform:set-response statusCode="500">
+                                        <http-transform:body>#[
+                                            output application/xml
+                                            ---
+                                            Soap::soap11ClientErrorMessage('Bad request', 'Problem processing the request payload. Check for parsing errors.')
+                                            ]</http-transform:body>
+                                    </http-transform:set-response>
+                                </on-error-continue>
+                            </error-handler>
+                        </try>
+                        {{else}}
+                        <http-transform:set-response statusCode="429">
+                            <http-transform:body>#[
+                                output application/json
+                                ---
+                                {"error": "$(error.description)"}
+                                ]</http-transform:body>
+                            <http-transform:headers>#[
+                                {
+                                    {{#if exposeHeaders}}
+                                    'x-ratelimit-remaining': error.exception.availableQuota as String,
+                                    'x-ratelimit-limit': error.exception.maximumAllowedRequests as String,
+                                    'x-ratelimit-reset': error.exception.remainingFrame as String
+                                    {{/if}}
+                                }
+                                ]</http-transform:headers>
+                        </http-transform:set-response>
+                        {{/if}}
+                    </on-error-continue>
+
+                    {{#if exposeHeaders}}
+                    <on-error-propagate>
+                        <http-transform:add-response-headers>
+                            <http-transform:headers>#[
+                                {
+                                    'x-ratelimit-remaining': vars.throttlingResponse.availableQuota as String,
+                                    'x-ratelimit-limit': vars.throttlingResponse.maximumAllowedRequests as String,
+                                    'x-ratelimit-reset': vars.throttlingResponse.remainingFrame as String
+                                }
+                            ]</http-transform:headers>
+                        </http-transform:add-response-headers>
+                    </on-error-propagate>
+                    {{/if}}
+                </error-handler>
+            </try>
+        </http-policy:source>
+    </http-policy:proxy>
+
+    <throttling:config name="rateLimitConfig" clusterizable="{{clusterizable}}">
+        <throttling:tier-provider>
+            <throttling:explicit>
+                <throttling:keys>
+                    <throttling:key>
+                        <throttling:tiers>
+                            {{#each rateLimits}}
+                            <throttling:tier maximumRequestsPerPeriod="{{maximumRequests}}"
+                                             timePeriodMillis="{{timePeriodInMilliseconds}}"/>
+                            {{/each}}
+                        </throttling:tiers>
+                    </throttling:key>
+                </throttling:keys>
+            </throttling:explicit>
+        </throttling:tier-provider>
+    </throttling:config>
+</mule>

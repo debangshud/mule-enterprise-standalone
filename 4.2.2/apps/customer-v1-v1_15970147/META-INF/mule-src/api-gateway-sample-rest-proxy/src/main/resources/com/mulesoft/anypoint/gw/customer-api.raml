@@ -1,0 +1,68 @@
+#%RAML 1.0
+---
+title: Customer API
+version: v1
+baseUri: http://localhost:8080
+mediaType: application/json
+types:
+  Customer:
+    properties:
+      id?: string
+      firstName: string
+      lastName: string
+/customers:
+  post:
+    description: Creates a customer
+    body:
+      application/json:
+        type: Customer
+        example: { "firstName": "John", "lastName": "Doe" }
+    responses:
+      201:
+        body:
+          application/json:
+            type: Customer
+            example: { "id" : "d5c38146-2b0a-44c4-b23c-2853c66cb528", "firstName": "John", "lastName": "Doe" }
+  get:
+    description: Returns all customers
+    responses:
+      200:
+        body:
+          application/json:
+            type: Customer[]
+            example: |
+              [
+                  {
+                      "id": "d5c38146-2b0a-44c4-b23c-2853c66cb528",
+                      "firstName": "John",
+                      "lastName": "Doe"
+                  },
+                  {
+                      "id": "a0b1ce38-1bd0-4f10-b95d-cffd79870d8e",
+                      "firstName": "Janie",
+                      "lastName": "Doe"
+                  },
+                  {
+                      "id": "0545d4cf-1f46-4938-ae5b-6dfacd900660",
+                      "firstName": "Johnny",
+                      "lastName": "Doe"
+                  }
+              ]
+  /{id}:
+    get:
+      description: Returns customer by id
+      responses:
+        200:
+          body:
+            application/json:
+              type: Customer
+              example: { "id" : "0545d4cf-1f46-4938-ae5b-6dfacd900660", "firstName" : "John", "lastName": "Doe" }
+    delete:
+      description: Deletes customer by id
+      responses:
+        204:
+#        404:
+#          body:
+#            application/json:
+#              type: Error
+#              example: !include examples/Error.json
